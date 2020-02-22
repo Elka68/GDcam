@@ -1,0 +1,2 @@
+koneksiWifi KEYWORD1
+simpanGambar KEYWORD1
